@@ -12,7 +12,7 @@ import { SharedComponent } from './shared.component';
     MaterialModule
   ],
   exports: [
-
+    SharedComponent
   ]
 })
 export class SharedModule { }
